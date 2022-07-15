@@ -1,0 +1,5 @@
+npm install jasmine-node
+update node path in package.json
+jasmine init
+create file spec/{filename}Spec.js
+to run: jasmin
